@@ -22,4 +22,4 @@ Stationarity transforms, ACF/PACF-guided model selection across 10+ candidates. 
 `Python` `SQL` `R` `scikit-learn` `XGBoost` `LightGBM` `AWS (SageMaker, Lambda)` `Power BI`
 
 ## Let's connect
-[LinkedIn](#) · [sripoojakondaparthy4@gmail.com](mailto:sripoojakondaparthy4@gmail.com) · [Resume](#)
+ [sripoojakondaparthy4@gmail.com](mailto:sripoojakondaparthy4@gmail.com) 
